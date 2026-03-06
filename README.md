@@ -1,1 +1,1 @@
-# secure_exam_proctoring
+Secure Examination Proctoring System is a web-based application designed to conduct and monitor online exams securely. The system uses Python for backend development and integrates webcam monitoring, face detection, and activity tracking using OpenCV and Machine Learning to detect suspicious behavior and maintain exam integrity.# secure_exam_proctoring_system
